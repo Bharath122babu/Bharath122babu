@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">CARS-R-Research</title><desc id="desc">Transport. Read. Correct. PYTORCH / RECURRENT MEMORY / MLA</desc>
+  <rect x="1" y="1" width="1198" height="188" rx="14" fill="#14202d" stroke="#314252"/>
+  <rect x="1" y="28" width="5" height="134" rx="2" fill="#75ddd0"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="34" y="40" fill="#75ddd0" font-size="15" font-weight="700" letter-spacing="2">01 / LANGUAGE-MODEL RESEARCH</text>
+    <text x="32" y="96" fill="#f2f6fa" font-size="45" font-weight="700" letter-spacing="-1">CARS-R-Research</text>
+    <text x="34" y="132" fill="#b8c8d8" font-size="23">Transport. Read. Correct.</text>
+    <text x="34" y="165" fill="#a7bacb" font-size="15" letter-spacing="1.4">PYTORCH / RECURRENT MEMORY / MLA</text>
+  </g>
+  <g fill="none" stroke="#75ddd0" stroke-width="2" opacity=".65">
+    <path d="M894 95H940M1010 95H1056"/>
+    <circle cx="872" cy="95" r="22"/>
+    <rect x="940" y="62" width="70" height="66" rx="10"/>
+    <circle cx="1078" cy="95" r="22"/>
+    <path d="M960 82H990M960 95H990M960 108H983"/>
+  </g>
+  <path d="M1136 64H1161V89M1161 64L1137 88" fill="none" stroke="#75ddd0" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

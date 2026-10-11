@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Bharath B — AI / ML and backend engineering</title>
+  <desc id="desc">A dark engineering notebook banner with a memory-and-evidence pipeline illustration.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a7d8de" stroke-opacity=".075"/></pattern>
+    <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#101c29"/><stop offset="1" stop-color="#142a33"/></linearGradient>
+    <linearGradient id="flow"><stop stop-color="#75ddd0"/><stop offset="1" stop-color="#86aaff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="400" rx="20" fill="url(#surface)"/>
+  <rect width="1200" height="400" rx="20" fill="url(#grid)"/>
+  <path d="M46 46H92M46 46V92M1154 46H1108M1154 46V92M46 354H92M46 354V308M1154 354H1108M1154 354V308" fill="none" stroke="#75ddd0" opacity=".5"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="76" y="99" font-size="17" font-weight="700" letter-spacing="3" fill="#75ddd0">RESEARCH / BUILD / EVALUATE</text>
+    <text x="72" y="196" font-size="82" font-weight="700" letter-spacing="-3" fill="#f2f6fa">Bharath B<tspan fill="#75ddd0">.</tspan></text>
+    <text x="76" y="245" font-size="27" fill="#c3d0dc">AI / ML &amp; backend engineering</text>
+    <text x="76" y="292" font-size="21" fill="#adbfcc">Language models. Agent systems.</text>
+    <text x="76" y="323" font-size="21" fill="#adbfcc">The backend behind them.</text>
+    <text x="770" y="99" font-size="14" letter-spacing="2" fill="#adbfcc">FROM SIGNAL TO SYSTEM</text>
+    <g fill="none" stroke="url(#flow)" stroke-width="2">
+      <path d="M786 196H846M934 196H1016M786 250H846M934 250H1016"/>
+      <path d="M876 168C808 111 789 135 786 196M907 281C972 326 1016 291 1016 250" opacity=".5"/>
+      <rect x="846" y="148" width="88" height="150" rx="14"/>
+      <path d="M863 185H917M863 223H917M863 261H917" opacity=".45"/>
+    </g>
+    <g fill="#142c35" stroke="#75ddd0" stroke-width="2"><circle cx="770" cy="196" r="16"/><circle cx="770" cy="250" r="16"/></g>
+    <g fill="#192b44" stroke="#86aaff" stroke-width="2"><circle cx="1032" cy="196" r="16"/><circle cx="1032" cy="250" r="16"/></g>
+    <g fill="#75ddd0"><circle cx="890" cy="168" r="4"/><circle cx="890" cy="204" r="4"/><circle cx="890" cy="242" r="4"/><circle cx="890" cy="279" r="4"/></g>
+    <text x="758" y="325" font-size="15" letter-spacing="2" fill="#adbfcc">INPUT</text>
+    <text x="851" y="325" font-size="15" letter-spacing="2" fill="#75ddd0">MEMORY</text>
+    <text x="998" y="325" font-size="15" letter-spacing="2" fill="#adbfcc">OUTPUT</text>
+  </g>
+</svg>
