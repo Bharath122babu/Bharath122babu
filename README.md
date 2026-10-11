@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bharat122551b.vercel.app/">Portfolio</a> &nbsp; / &nbsp;
+  <a href="https://bharath122551b.vercel.app/">Portfolio</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/bharath-b-7894b5382/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="mailto:bharath122551b@gmail.com">Email</a>
 </p>
@@ -66,6 +66,6 @@ Alongside the public work, I'm developing **SOVEREIGN**, a local-first agentic w
 
 Open to conversations about ML research, agent systems, and backend engineering.
 
-**[LinkedIn](https://www.linkedin.com/in/bharath-b-7894b5382/)** · **[Portfolio](https://bharat122551b.vercel.app/)** · **[bharath122551b@gmail.com](mailto:bharath122551b@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/bharath-b-7894b5382/)** · **[Portfolio](https://bharath122551b.vercel.app/)** · **[bharath122551b@gmail.com](mailto:bharath122551b@gmail.com)**
 
 <p align="center"><sub>Models worth studying. Systems worth using.</sub></p>
